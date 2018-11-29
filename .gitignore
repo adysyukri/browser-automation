@@ -1,0 +1,6 @@
+/dist
+/build
+geckodriver.log
+app.spec
+/.vscode
+/__pycache__
